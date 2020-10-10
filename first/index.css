@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+}
+
+body {
+  height: 100%;
+}
+
+#charcoal {
+  background-color: #444444;
+  height: 100px;
+}
+
+#off-white {
+  background-color: #efefef;
+  height: 800px;
+}
+
+.light-gray {
+  background-color: #d8d8d8;
+  width: 150px;
+  height: inherit;
+}
+
+#left-section {
+  float: left;
+}
+
+#right-section {
+  float: right;
+}
+
+#black {
+  background-color: #222222;
+  height: 100px;
+  position: fixed;
+  bottom: 398px;
+  left: 150px;
+  width: 88.3%;
+}
