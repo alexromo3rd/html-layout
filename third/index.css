@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+}
+
+.row {
+  height: 15vh;
+}
+
+#large-row {
+  height: 25vh;
+  font-size: 56px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+#gray {
+  background-color: #d8d8d8;
+}
+
+#blue-box {
+  background-color: #4a90e2;
+  display: block;
+  position: absolute;
+  height: 150px;
+  width: 150px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+#light-blue {
+  background-color: #4a90e2;
+}
+
+#cyan {
+  background-color: #50e3c2;
+}
+
+#light-green {
+  background-color: #b8e986;
+}
+
+#yellow {
+  background-color: #f8e71c;
+}
